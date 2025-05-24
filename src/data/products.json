@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Sony 65\" OLED 4K TV",
+    "price": 1899,
+    "image": "public/images/sonyOLED 4K TV.jpg",
+    "made_in": "Japan",
+    "category": "Television",
+    "size": "65 inch",
+    "warranty_years": 2
+  },
+  {
+    "id": 2,
+    "name": "Apple MacBook Pro 14\" M3",
+    "price": 2499,
+    "image": "public/images/Apple MacBook Pro.avif",
+    "made_in": "China",
+    "category": "Laptop",
+    "size": "14 inch",
+    "warranty_years": 1
+  },
+  {
+    "id": 3,
+    "name": "Samsung Galaxy Tab S9 Ultra",
+    "price": 1199,
+    "image": "public/images/Samsung Galaxy Tab S9.webp",
+    "made_in": "South Korea",
+    "category": "Tablet",
+    "size": "14.6 inch",
+    "warranty_years": 1
+  },
+  {
+    "id": 4,
+    "name": "Bose QuietComfort Earbuds II",
+    "price": 299,
+    "image": "public/images/BoseQuietComfortEarbudsII.jpg",
+    "made_in": "Mexico",
+    "category": "Earbuds",
+    "size": "One Size",
+    "warranty_years": 1
+  },
+  {
+    "id": 5,
+    "name": "DJI Mini 4 Pro Drone",
+    "price": 759,
+    "image": "public/images/DJI Mini 4 Pro Drone.webp",
+    "made_in": "China",
+    "category": "Drone",
+    "size": "Ultra Compact",
+    "warranty_years": 1
+  },
+  {
+    "id": 6,
+    "name": "LG 27\" UltraFine Monitor 5K",
+    "price": 1299,
+    "image": "public/images/LG 27UltraFineMonitor5K.jpg",
+    "made_in": "South Korea",
+    "category": "Monitor",
+    "size": "27 inch",
+    "warranty_years": 3
+  },
+  {
+    "id": 7,
+    "name": "Canon PIXMA G7020 MegaTank Printer",
+    "price": 349,
+    "image": "public/images/Canon PIXMA G7020 MegaTank Printer.jpg",
+    "made_in": "Vietnam",
+    "category": "Printer",
+    "size": "Standard",
+    "warranty_years": 2
+  },
+  {
+    "id": 8,
+    "name": "GoPro HERO12 Black",
+    "price": 399,
+    "image": "public/images/GoPro HERO12 Black.jpg",
+    "made_in": "China",
+    "category": "Action Camera",
+    "size": "Small",
+    "warranty_years": 1
+  },
+  {
+    "id": 9,
+    "name": "Philips Airfryer XXL",
+    "price": 299,
+    "image": "public/images/Philips Airfryer XXL.jpg",
+    "made_in": "Netherlands",
+    "category": "Kitchen Appliance",
+    "size": "XXL",
+    "warranty_years": 2
+  },
+  {
+    "id": 10,
+    "name": "Xiaomi Electric Scooter 4 Pro",
+    "price": 799,
+    "image": "public/images/Xiaomi Electric Scooter 4 Pro.jpg",
+    "made_in": "China",
+    "category": "Electric Scooter",
+    "size": "Large",
+    "warranty_years": 1
+  }
+]
